@@ -1,0 +1,15 @@
+{
+	"name": "adfdevbaclays",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a508ee52-adc4-40bf-958a-cd2fba986292",
+		"tenantId": "03042172-c681-4ff9-b77f-3c1b4d5ffa8a"
+	}
+}

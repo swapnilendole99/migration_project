@@ -1,0 +1,12 @@
+{
+	"name": "LinkSelfintegrationRuntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/60fe0e42-c49c-4183-be19-0c4f16568554/resourcegroups/rgfinanceproject/providers/Microsoft.DataFactory/factories/adfprojectfinance/integrationruntimes/IRFinance",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
